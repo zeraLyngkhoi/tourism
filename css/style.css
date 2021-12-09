@@ -508,7 +508,8 @@ button:focus {
 /* Home Banner Area css
 ============================================================================================ */
 .home_banner_area {
-  background: url("../img/banner/homebanneradd.png") no-repeat center center;
+  /*background: url("../img/banner/homebanneradd.png") no-repeat center center;*/
+  background: url("../img/banner/Nohkalikai-Falls.png") no-repeat center center;
   background-size: cover;
   min-height: 900px; }
   @media (max-width: 991px) {
